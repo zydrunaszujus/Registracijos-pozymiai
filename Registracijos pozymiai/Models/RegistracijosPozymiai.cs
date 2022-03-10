@@ -7,7 +7,7 @@ namespace Registracijos_pozymiai.Models
 {
     public class RegistracijosPozymiai
     {
-        public string Pozymiai { get; set; }
+        public string Pozymis { get; set; }
         public string Reiksme { get; set; }
     }
 }
